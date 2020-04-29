@@ -11,13 +11,13 @@ I tested the LOF algo with the example from scikit: https://scikit-learn.org/sta
 ### 4.14.20 LOF on Iris, Wine, and Forest Fire datasets
 #### installed pandas using pip & read in csv files 
 I imported iris and wine datasets from Scikit Learn
-I downloaded and uploaded the forest fires dataset from UCI ML Repo
+I downloaded and uploaded the forest fires dataset from UCI ML Repo.
 I am currently struggling to extract the data matrix from the forest fires data set
-and my other data set (that I must keep private) that I need to actually run LOF
+and my other data set (that I must keep private) that I need to actually run LOF.
 
 ### 4.29.20 Used LOF on Health Data & Researched One Class SVM
 #### researched numpy & pandas
-I followed Dr. Strnadova-Neeley's example on using the LOF on data from excel
-We ran it setting both neighbors to 5 & 10
-Then I researched and compared One Class SVM to LOF
+I followed Dr. Strnadova-Neeley's example on using the LOF on data from excel.
+We ran it setting both neighbors to 5 & 10.
+Then I researched and compared One Class SVM to LOF.
 Will be moving on to a report for the final project
